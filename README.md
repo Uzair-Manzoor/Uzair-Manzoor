@@ -91,7 +91,7 @@ Thanks for stopping by! Feel free to reach out with any questions!
 
 <h2>💚 WhatsApp: +92-345-0978605 </<<< </h2>
 
---- <h1>♘...<h1>
+<h1>♘...<h1>
 <!---
 Uzair-Manzoor/Uzair-Manzoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
