@@ -1,5 +1,5 @@
 
-Hi, I am Uzair. Welcome to my profile!
+<h1 style="position:center;">Hi, I am Uzair. Welcome to my profile!</h1>
 
 
 - 👋 Hi, I’m @Uzair-Manzoor
