@@ -18,10 +18,10 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-<h3>💟 Values</h3>
+<!--<h3>💟 Values</h3>
 
 Due in part to former work at a Commission for the Blind, I am keenly interested in gaining accessibility expertise. I also have great admiration for the Electronic Frontier Foundation and take Internet privacy seriously. AI is a major concern both in terms of everyone's job security and ethical design/training, but it is inevitable, so I would like to work on helping build positive AI someday (ref. Baymax 💙). And of course, I want to write code in a way that makes things easy for my fellow developers.
-
+-->
 <h3 align="left">💻 Skills</h3>
 
 <h4 align="left">🌟Proficient</h4>
@@ -91,7 +91,7 @@ Thanks for stopping by! Feel free to reach out with any questions!
 
 <h2>💚 WhatsApp: +92-345-0978605 </<<< </h2>
 
---- <h1>♘</h1>to be continue...
+--- <h1>♘<p>to be continue</p></h1>...
  
 <!---
 Uzair-Manzoor/Uzair-Manzoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
