@@ -89,7 +89,7 @@ Thanks for stopping by! Feel free to reach out with any questions!
 
 <a href="https://www.linkedin.com/in/uzair-manzoor-b69996115/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
-<h2>💚 WhatsApp: +92-345-0978605</h2>
+<h2>💚 WhatsApp: +92-345-0978605 </ ></h2>
 
 <!---
 Uzair-Manzoor/Uzair-Manzoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
