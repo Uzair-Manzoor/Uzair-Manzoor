@@ -1,4 +1,4 @@
-<center><h1 style="text-align: center">Hi, I am Uzair. Welcome to my profile!</h1></center>
+<h1 align="center">Hi, I am Uzair. Welcome to my profile!</h1>
 
 <h2>🤖 About Me As a Programmer</h2>
 
@@ -10,7 +10,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*`<p align="center">`📆 What I'm Up To on 1/2`</p>`*
+<p align="center">`📆 What I'm Up To on 1/2`</p>
 
 - Building the frontend of a commissioned project in React
 - Learning Python
