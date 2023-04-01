@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Uzair.🙋‍♂️ Welcome to my profile!</h1>
+<h1 align="center">Hi, I am Uzair.🙋‍♂️ <br>Welcome to my profile!</h1>
 
 <h2>🤖 About Me As a Programmer</h2>
 
