@@ -1,4 +1,4 @@
-<h1 align="center">Hi,<br>Welcome to my profile! <br>I'm <br>Uzair Manzoor</h1>
+<h1 align="center">Hi,<br><span font-size: small;>Welcome to my profile!</span> <br>I'm <br>Uzair Manzoor</h1>
 
 <h2>🤖 About Me As a Programmer</h2>
 
