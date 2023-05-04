@@ -88,7 +88,6 @@ Thanks for stopping by! Feel free to reach out with any questions!
 <a href="https://www.linkedin.com/in/uzair-manzoor-b69996115/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
 -->
-<p style="padding-top: 30px;"><i class="fa fa-whatsapp" aria-hidden="true"></i> You may also <a href="https://wa.me/+923450978605">Click Here</a> for whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i>
 
 <h1><a href="https://wa.me/+923450978605">♘...*ೃ༄ᴬᶻᵐⁱʳᵃ5 ᵀᵉᶜʰ◉●•◦</a><h1>
 <!---
