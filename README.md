@@ -1,5 +1,9 @@
-<h2 align="center">Hi,</h2><br><h3 align="center">Welcome to my Profile!<h3 align="center"><br>I'm</h3><br><h2 align="center">Uzair Manzoor</h2>
-
+<div align="center">
+<h2>Hi,</h2>
+<h3>Welcome to my Profile!</3>
+<h3>I'm</h3>
+<h2>Uzair Manzoor</h2>
+</div>
 <!-- 
 <h2>🤖 About Me As a Programmer</h2>
 
