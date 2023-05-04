@@ -89,7 +89,7 @@ Thanks for stopping by! Feel free to reach out with any questions!
 
 -->
 
-<h1><a href="https://wa.me/+923450978605">♘...*ೃ༄ᴬᶻᵐⁱʳᵃ5 ᵀᵉᶜʰ◉●•◦</a><h1>
+<h1 align="center"><a href="https://wa.me/+923450978605">♘...*ೃ༄ᴬᶻᵐⁱʳᵃ5 ᵀᵉᶜʰ◉●•◦</a><h1>
 <!---
 Uzair-Manzoor/Uzair-Manzoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
