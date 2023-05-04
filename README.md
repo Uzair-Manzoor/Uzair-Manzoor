@@ -2,7 +2,7 @@
 <h2>Hi,</h2>
 <h3>Welcome to my Profile!</3>
 <h3>I'm</h3>
-<h2>Uzair Manzoor</h2>
+<h1>Uzair Manzoor</h1>
 </div>
 <!-- 
 <h2>🤖 About Me As a Programmer</h2>
