@@ -90,7 +90,7 @@ Thanks for stopping by! Feel free to reach out with any questions!
 -->
 <p style="padding-top: 30px;"><i class="fa fa-whatsapp" aria-hidden="true"></i> You may also <a href="https://wa.me/+923450978605">Click Here</a> for whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i>
 
-<h1>♘...*ೃ༄ᴬᶻᵐⁱʳᵃ5 ᵀᵉᶜʰ◉●•◦<h1>
+<h1><a href="https://wa.me/+923450978605">♘...*ೃ༄ᴬᶻᵐⁱʳᵃ5 ᵀᵉᶜʰ◉●•◦</a><h1>
 <!---
 Uzair-Manzoor/Uzair-Manzoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
