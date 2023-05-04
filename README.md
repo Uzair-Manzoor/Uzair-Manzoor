@@ -1,4 +1,5 @@
-<h1 align="center">Hi,<br>Welcome to my profile!<br>I'm<br>Uzair Manzoor</h1>
+<h1 align="center">Hi,<br><style font-size: small;>Welcome to my profile!</style><br>I'm<br>Uzair Manzoor</h1>
+
 <!-- 
 <h2>🤖 About Me As a Programmer</h2>
 
@@ -87,8 +88,9 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 Thanks for stopping by! Feel free to reach out with any questions!
 
-<a href="https://www.linkedin.com/in/uzair-manzoor-b69996115/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> -->
+<a href="https://www.linkedin.com/in/uzair-manzoor-b69996115/" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
+-->
 <h4>💚 WhatsApp: +92-345-0978605</h4>
 
 <h1>♘...*ೃ༄ᴬᶻᵐⁱʳᵃ5 ᵀᵉᶜʰ◉●•◦<h1>
