@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" font-family="georgia">
 <h2>Hi,</h2>
 <h3>Welcome to my Profile!</3>
 <h3>I'm</h3>
