@@ -2,13 +2,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/boniface-mbogho-66242a243?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Br86yJt9GRa%2BT7EUmujdivw%3D%3D">
+  <a href="https://www.linkedin.com/in/uzair-manzoor-b69996115/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Cabon_Bonii_">
+  <a href="https://twitter.com/UzairKiyani5555">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -16,15 +16,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
 </div>
 </div>
-<h3 align="center">I am an Enthusiatic Passionate Developer from Kenya</h3>
-<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="right" height="48" width="48" ></a>
+<h3 align="center">I am an Enthusiatic Passionate Developer from Pakistan</h3>
+<!-- <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="right" height="48" width="48" ></a> -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
-
-
-
-
-<h2 align="center">Hi,<br>Welcome to my Profile!<br>I'm<br>Uzair Manzoor</h2>
 <!-- 
 <h2>🤖 About Me As a Programmer</h2>
 
