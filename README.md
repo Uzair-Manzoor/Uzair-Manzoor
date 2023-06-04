@@ -16,8 +16,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="300"/>
 </div>
 </div>
-<h3 align="center">I am an Enthusiatic Passionate Developer from Pakistan</h3>
-<!-- <a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="right" height="48" width="48" ></a> -->
+<h3 align="center">Enthusiatic and Passionate Developer from Pakistan</h3>
+<a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="right" height="48" width="48" ></a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Gtindi.Gtindi">
 
 <!-- 
