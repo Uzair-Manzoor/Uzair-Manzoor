@@ -81,13 +81,13 @@ Hi there! I'm Uzair 👋
 <div align="center">
   <img src="./Resources/Icons/divider10.png" alt="divider"/>
     
-<p align="center">
+<!-- <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=ofarouq310&show_icons=true&theme=ayu-mirage&hide_border=true&card_width=493px" align="center" />
 </p>  
  
  <p align = "center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ofarouq310&theme=ayu-mirage&hide_border=true">
-</p>
+</p> -->
 
 <p align="center">
   <a href="mailto:uzair.kayani555@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
