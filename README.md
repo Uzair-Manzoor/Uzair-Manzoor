@@ -13,7 +13,7 @@ Hi there! I'm Uzair 👋
 </p>
 
 <div align="center">
-  <img src="./Resources/Icons/divider1.png" alt="divider"/>
+  <img src="./Resources/Icons/divider11.png" alt="divider"/>
 </div>
 
 <h3 align="center"><img src="./Resources/Icons/code.gif" height="20"/> Tech & Tools</h3>
