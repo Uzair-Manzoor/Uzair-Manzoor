@@ -39,7 +39,7 @@ Hi there! I'm Uzair 👋
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" /> 
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
-<!--         <img src="https://img.shields.io/badge/Python-blue" />  -->
+        <img src="https://img.shields.io/badge/Python-blue" />
 <!--         <img src="https://img.shields.io/badge/Java-blue" /> -->
       </td>
       <td valign="center" align="center" width="300px">
