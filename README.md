@@ -1,7 +1,7 @@
-<!-- <div align="center">
+<div align="center">
 <img src="./Resources/Images/Paki2.gif" />
 </div>
-  -->
+
 <h1 align="center"> 
 Hi there! I'm Uzair 👋 
  
