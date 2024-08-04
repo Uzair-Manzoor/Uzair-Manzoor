@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./Resources/Images/Paki2.gif" />
+<img src="./cover.png" />
 </div>
 
 <h1 align="center"> 
